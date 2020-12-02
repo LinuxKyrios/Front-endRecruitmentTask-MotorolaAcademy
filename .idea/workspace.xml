@@ -43,11 +43,35 @@
       <option name="presentableId" value="Default" />
       <updated>1606920756333</updated>
       <workItem from="1606920757453" duration="595000" />
-      <workItem from="1606921365682" duration="179000" />
+      <workItem from="1606921365682" duration="1029000" />
     </task>
+    <task id="LOCAL-00001" summary="Configured &lt;head&gt; part and &lt;title&gt;">
+      <created>1606921586562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606921586562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configured &lt;head&gt; part and &lt;title&gt;" />
+    <MESSAGE value="&lt;header&gt; and &lt;div&gt; class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;header&gt; and &lt;div&gt; class created" />
   </component>
 </project>
