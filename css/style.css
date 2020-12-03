@@ -146,30 +146,80 @@ footer p {
     padding-top: 0;
 }
 
+.signup {
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+
 form {
     margin: 5%;
 }
 
 input[type="text"] {
-    background-color: yellow;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    resize: vertical
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    margin-right: 12px;
+    margin-left: 145px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-items: center;
+}
+
+input[type=reset] {
+    background-color: darkred;
+    margin-left: 36px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 input[type="number"] {
     background-color: red;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    resize: vertical
 }
 
-#submitButton{
-    background-color: green;
-    padding: 10px;
-    border: 5px solid darkgreen;
-    color: white;
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 16px;
+    resize: vertical
 }
 
-#resetButton{
-    background-color: red;
-    padding: 10px;
-    border: 5px solid darkred;
-    color: white;
+td {
+    padding: 2px;
+    align-items: center;
+}
+
+table {
+    border-spacing: 5px;
+    background-color: #eeeeee;
+    border: 0;
 }
 
 .attention img{
@@ -191,4 +241,13 @@ input[type="number"] {
 
 .apologies{
     padding-left: 16px;
+}
+
+/* Gallery */
+.underConstruction {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+    width: 40%;
 }
