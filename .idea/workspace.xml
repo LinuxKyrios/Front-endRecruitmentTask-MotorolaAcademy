@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="47427b43-30ee-4414-9a2f-24fa97fe47e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch.html" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,8 @@
       <workItem from="1606921365682" duration="1785000" />
       <workItem from="1606924958317" duration="16000" />
       <workItem from="1606953764816" duration="7658000" />
-      <workItem from="1606997499788" duration="6957000" />
+      <workItem from="1606997499788" duration="7676000" />
+      <workItem from="1607018265817" duration="5471000" />
     </task>
     <task id="LOCAL-00001" summary="Configured &lt;head&gt; part and &lt;title&gt;">
       <created>1606921586562</created>
@@ -110,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607004764993</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Upgraded CSS styles">
+      <created>1607005352279</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607005352279</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +148,7 @@
     <MESSAGE value="Created css file" />
     <MESSAGE value="Updated CSS file" />
     <MESSAGE value="Upgraded contact.html page and sketch.html page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgraded contact.html page and sketch.html page" />
+    <MESSAGE value="Upgraded CSS styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgraded CSS styles" />
   </component>
 </project>
