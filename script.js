@@ -10,7 +10,7 @@ function validate(form)
 function validateFirstname(field)
 {
     if (field == "") {
-        return "Field contains no first name\n"
+        return "First name field contains no first name\n"
     } else if (/[^a-zA-Z0-9_-]/.test(field)) {
         return "Onlny characters a-z, A-Z, 0-9, - and _ are allowed in name.\n"
     }
@@ -23,18 +23,18 @@ function validateFirstname(field)
 }
 function validateLastname(field)
 {
-    return (field == "") ? "Field contains no last name.\n" : ""
+    return (field == "") ? "Last name field contains no last name.\n" : ""
 }
 function validateAge(field)
 {
-    if (isNaN(field)) return "Field contains no age.\n"
+    if (isNaN(field)) return "Age field contains no age.\n"
     else if (field < 18 || field > 110)
-        return "Age msut be between 18 and 110.\n"
+        return "Age must be between 18 and 110.\n"
     return ""
 }
 function validateEmail(field)
 {
-    if (field == "") return "Field contains no email.\n"
+    if (field == "") return "Email field contains no email.\n"
     else if (!((field.indexOf(".") > 0) &&
         (field.indexOf("@") > 0)) ||
         /[^a-zA-Z0-9.@_-]/.test(field))
