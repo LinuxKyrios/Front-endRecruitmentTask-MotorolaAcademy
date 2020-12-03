@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47427b43-30ee-4414-9a2f-24fa97fe47e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sketch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,7 +56,8 @@
       <workItem from="1606920757453" duration="595000" />
       <workItem from="1606921365682" duration="1785000" />
       <workItem from="1606924958317" duration="16000" />
-      <workItem from="1606953764816" duration="4937000" />
+      <workItem from="1606953764816" duration="7658000" />
+      <workItem from="1606997499788" duration="6314000" />
     </task>
     <task id="LOCAL-00001" summary="Configured &lt;head&gt; part and &lt;title&gt;">
       <created>1606921586562</created>
@@ -95,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606958127024</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated CSS file">
+      <created>1606958748728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606958748728</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +132,7 @@
     <MESSAGE value="Created basic index.html page" />
     <MESSAGE value="Upgraded basic index.html page" />
     <MESSAGE value="Created css file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created css file" />
+    <MESSAGE value="Updated CSS file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated CSS file" />
   </component>
 </project>
