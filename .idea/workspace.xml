@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47427b43-30ee-4414-9a2f-24fa97fe47e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sketch.html" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +52,7 @@
       <workItem from="1606924958317" duration="16000" />
       <workItem from="1606953764816" duration="7658000" />
       <workItem from="1606997499788" duration="7676000" />
-      <workItem from="1607018265817" duration="5471000" />
+      <workItem from="1607018265817" duration="5788000" />
     </task>
     <task id="LOCAL-00001" summary="Configured &lt;head&gt; part and &lt;title&gt;">
       <created>1606921586562</created>
@@ -122,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607005352279</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created and completed Team subpage">
+      <created>1607023799885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607023799885</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +151,7 @@
     <MESSAGE value="Updated CSS file" />
     <MESSAGE value="Upgraded contact.html page and sketch.html page" />
     <MESSAGE value="Upgraded CSS styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgraded CSS styles" />
+    <MESSAGE value="Created and completed Team subpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created and completed Team subpage" />
   </component>
 </project>
