@@ -1,3 +1,6 @@
+EDIT 29.12.2020 https://linuxkyrios.github.io/Front-endRecruitmentTask-MotorolaAcademy/index.html
+
+
 # Front-endRecruitmentTask-MotorolaAcademy
 Front-end recruitment task for Motorola Academy
 
